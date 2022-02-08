@@ -1,0 +1,35 @@
+﻿using System;
+
+namespace p127
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            {
+                string name = "arzu";
+                {
+                    for (int i = 0; i < name.Length; i++) ;
+                    
+                        if ("name[i]" == "a") ;
+                        {
+                            Console.WriteLine("a var");
+
+                        }
+                        else
+                    {
+                        Console.WriteLine("a yoxdur");
+                    }
+                    
+                            }
+                        }
+                    
+                       }
+
+                    }
+                }
+            
+                
+                         
+
